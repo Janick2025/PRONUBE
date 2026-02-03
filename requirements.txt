@@ -1,0 +1,10 @@
+# Requirements for PRONUBE project
+# Add your dependencies here
+
+# Core dependencies
+# python >= 3.8
+
+# Example dependencies (uncomment as needed):
+# flask==2.3.0
+# requests==2.31.0
+# python-dotenv==1.0.0
