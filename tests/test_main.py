@@ -3,6 +3,7 @@ Tests for PRONUBE main module
 """
 import sys
 import os
+from io import StringIO
 
 # Add src to path for imports
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../src')))
@@ -19,14 +20,30 @@ def test_main_import():
         return False
 
 def test_main_execution():
-    """Test that main function executes without errors"""
+    """Test that main function executes and prints correct output"""
     try:
         import main
-        # Run main function (it prints output but shouldn't raise errors)
+        
+        # Capture stdout to verify output
+        captured_output = StringIO()
+        sys.stdout = captured_output
+        
         main.main()
-        print("✓ Test passed: main function executes correctly")
+        
+        # Restore stdout
+        sys.stdout = sys.__stdout__
+        
+        output = captured_output.getvalue()
+        
+        # Verify expected messages are in output
+        assert "¡Bienvenido a PRONUBE!" in output
+        assert "Sistema de gestión en la nube inicializado correctamente" in output
+        assert "¡Sí, podemos empezar!" in output
+        
+        print("✓ Test passed: main function executes correctly with expected output")
         return True
     except Exception as e:
+        sys.stdout = sys.__stdout__
         print(f"✗ Test failed: {e}")
         return False
 
