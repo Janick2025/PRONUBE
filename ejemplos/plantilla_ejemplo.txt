@@ -1,0 +1,61 @@
+CONTRATO DE TRABAJO A TÉRMINO FIJO
+
+Entre {EMPRESA}, sociedad legalmente constituida, identificada con NIT {NIT_EMPRESA}, representada por {REPRESENTANTE_LEGAL}, y {NOMBRE_CONTRATADO}, identificado(a) con cédula de ciudadanía número {CEDULA}, se celebra el presente contrato de trabajo a término fijo, el cual se regirá por las siguientes cláusulas:
+
+PRIMERA: OBJETO DEL CONTRATO
+{EMPRESA} contrata los servicios personales de {NOMBRE_CONTRATADO} para desempeñar el cargo de {CARGO}, con las funciones y responsabilidades inherentes al mismo.
+
+SEGUNDA: DURACIÓN DEL CONTRATO
+El presente contrato tendrá una duración de {DURACION_MESES} meses, contados a partir del {FECHA_INICIO} y hasta el {FECHA_FIN}, fecha en la cual terminará sin necesidad de previo aviso.
+
+TERCERA: LUGAR DE TRABAJO
+El trabajador prestará sus servicios en {DIRECCION_TRABAJO}, {CIUDAD}, {DEPARTAMENTO}.
+
+CUARTA: JORNADA LABORAL
+La jornada de trabajo será de {HORAS_SEMANA} horas semanales, distribuidas de lunes a viernes de {HORA_ENTRADA} a {HORA_SALIDA}.
+
+QUINTA: REMUNERACIÓN
+Como contraprestación por los servicios prestados, {EMPRESA} pagará a {NOMBRE_CONTRATADO} un salario mensual de {SALARIO} pesos colombianos, pagaderos mensualmente.
+
+SEXTA: PERIODO DE PRUEBA
+Las partes acuerdan un período de prueba de {PERIODO_PRUEBA} días, durante el cual cualquiera de las partes puede dar por terminado el contrato sin previo aviso.
+
+SÉPTIMA: OBLIGACIONES DEL TRABAJADOR
+Son obligaciones del trabajador:
+a) Desempeñar personal y diligentemente las labores encomendadas
+b) Cumplir con el reglamento interno de trabajo
+c) Guardar lealtad y confidencialidad sobre la información de la empresa
+d) Asistir puntualmente al trabajo
+e) {OBLIGACIONES_ADICIONALES}
+
+OCTAVA: OBLIGACIONES DEL EMPLEADOR
+Son obligaciones del empleador:
+a) Pagar el salario acordado en las fechas establecidas
+b) Afiliar al trabajador al sistema de seguridad social
+c) Proporcionar los elementos necesarios para el desempeño de las labores
+d) Cumplir con todas las obligaciones legales laborales
+
+NOVENA: CAUSALES DE TERMINACIÓN
+El contrato podrá terminarse por las causales establecidas en el Código Sustantivo del Trabajo, incluyendo:
+- Mutuo consentimiento
+- Expiración del plazo pactado
+- Terminación unilateral con justa causa
+- Decisión unilateral del trabajador
+- Decisión unilateral del empleador
+
+DÉCIMA: CLÁUSULAS ESPECIALES
+{CLAUSULAS_ESPECIALES}
+
+Para constancia, se firma el presente contrato en {CIUDAD} a los {DIA} días del mes de {MES} de {ANIO}.
+
+_____________________________
+{REPRESENTANTE_LEGAL}
+Representante Legal
+{EMPRESA}
+C.C. {CEDULA_REPRESENTANTE}
+
+
+_____________________________
+{NOMBRE_CONTRATADO}
+Trabajador
+C.C. {CEDULA}
